@@ -41,5 +41,3 @@ Dibangun **tanpa framework**, hanya menggunakan **HTML5** dan **CSS3** murni —
 - **Font Awesome** – Ikon media sosial & dekorasi
 
 ---
-
-## Struktur Folder
